@@ -29,5 +29,5 @@ greedan-plant-store/
 
 ## 🚀 Getting Started
 
-1. Live Demo: 
+1. Live Demo:  https://jafar255.github.io/Greenden-Tailwind/
 
