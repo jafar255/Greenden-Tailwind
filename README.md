@@ -1,6 +1,6 @@
-# Greedan - Plant Store Website 🌿
+# Greenden - Plant Store Website 🌿
 
-Greedan is a responsive plant store website built using **HTML5** and **Tailwind CSS**. It features a clean and modern design tailored for plant lovers and online plant shoppers.
+Greenden is a responsive plant store website built using **HTML5** and **Tailwind CSS**. It features a clean and modern design tailored for plant lovers and online plant shoppers.
 
 ## 🌱 Features
 
@@ -19,7 +19,7 @@ Greedan is a responsive plant store website built using **HTML5** and **Tailwind
 
 ## 📁 Folder Structure
 
-greedan-plant-store/
+greenden-plant-store/
 ├── index.html
 ├── /assets
 │ ├── /images
